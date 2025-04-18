@@ -1,0 +1,13 @@
+filename = 'terracotta-shingles-1.0+1.21.jar'
+name = 'Terracotta Shingles'
+side = 'both'
+
+[download]
+hash = '088d1b65cca2f402fb420357e687272c35aa920e9d7ea4eb0e3d6871dbe5ae6f5ac3e0d189079b885ff510dd024c0547507c2e5eb0043cb183d9f44e1b3ac76e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MivAfxHo/versions/6ErGLUAf/terracotta-shingles-1.0%2B1.21.jar'
+
+[update.modrinth]
+mod-id = 'MivAfxHo'
+version = '6ErGLUAf'

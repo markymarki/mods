@@ -1,0 +1,13 @@
+filename = 'Zoomi+1.21.1-1.6.1.jar'
+name = 'Zoomi'
+side = 'client'
+
+[download]
+hash = '3db9fbd7e4e8e9aba60a7f050d43cf82396d652111fc3b113f63b19bba883542d7883cd01c14d41a7daf9541598a85f7d33986c0b3ececa6bd51ff444a128298'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lnTa8VO5/versions/kXJZUdm6/Zoomi%2B1.21.1-1.6.1.jar'
+
+[update.modrinth]
+mod-id = 'lnTa8VO5'
+version = 'kXJZUdm6'

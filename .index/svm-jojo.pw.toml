@@ -1,0 +1,13 @@
+filename = 'svm-jojo-1.92.jar'
+name = 'JoJo Stands'
+side = 'both'
+
+[download]
+hash = '4e2450fff589f54d9fe0233c3649b4395b8787e6fc20c54d338f3669d4520337c5e447cf71c03293192d58e10aed6f4d708b30398c6fb09d04f4171be3855b62'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Ui5u58DQ/versions/BDKNJPV5/svm-jojo-1.92.jar'
+
+[update.modrinth]
+mod-id = 'Ui5u58DQ'
+version = 'BDKNJPV5'
